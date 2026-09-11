@@ -1,0 +1,6 @@
+{
+  "name": "ForenSanitizer",
+  "description": "Integrated Secure Data Erasure and Advanced File Recovery Tool for Digital Forensics and Data Sanitization (SIH26149)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
